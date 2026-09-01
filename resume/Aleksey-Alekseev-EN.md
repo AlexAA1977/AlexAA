@@ -8,7 +8,7 @@ Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](ht
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **19 years** at Russia's leading private asset manager. **Full departmental P&L owner** (no shadow allocations): revenue from **all commissions on RUB 1.15T AUM**, **RUB 3B OPEX**, **RUB 4.3B net profit** (2025), **250+** team. **Invited member of the Management Board.** Alfa-Bank partner channel and **22-office** network within departmental P&L. **HNWI, Affluent, Premium, Mass Affluent.**
+Distribution leader with **25 years** in financial services — **banking** (International Industrial Bank, Citibank) and **19 years** at Russia's leading private asset manager. **Full departmental P&L owner** (no shadow allocations): revenue from **all commissions on RUB 1.15T AUM**, **RUB 3B OPEX**, **RUB 4.3B net profit** (2025), **250+** team. **Invited member of the Management Board.** Alfa-Bank partner channel and **22-office** network within departmental P&L. **HNWI, Affluent, Premium, Mass Affluent.**
 
 ---
 
@@ -25,6 +25,20 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 ---
 
 ## PROFESSIONAL EXPERIENCE
+
+### International Industrial Bank (Mezhprombank) · Moscow
+
+#### Senior Manager, Clearing Operations
+**2000 — 2005**
+
+- Clearing and settlement operations in a universal bank
+
+### Citibank · Russia
+
+#### Citi Gold Manager
+**2005 — 2006**
+
+- Premium-segment client relationships (**Citi Gold**)
 
 ### Alfa-Capital Asset Management · Moscow
 *#1 private asset manager in Russia · RUB 2T+ AUM · 2M+ clients · Alfa Group ecosystem*

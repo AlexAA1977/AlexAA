@@ -31,6 +31,7 @@ See `.cursor/skills/README.md` for full skill list.
 - **LinkedIn:** https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621
 - **Current role:** Director, Agency Sales & Regional Distribution, Alfa-Capital Asset Management (since Aug 2020)
 - **Tenure at Alfa-Capital:** Dec 2006 — present
+- **Prior banking:** Mezhprombank (2000–2005, clearing ops); Citibank Russia (2005–2006, Citi Gold Manager)
 - **Board:** Invited member of Management Board
 - **Scale:** AUM RUB 1.15T (52% of firm), full departmental P&L (no shadow), net profit RUB 4.3B (2025), OPEX RUB 3B, team 250+, 22 regional offices
 - **Recognition:** Best Sales Department Director 2020–2023

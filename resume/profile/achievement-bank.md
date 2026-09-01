@@ -2,6 +2,13 @@
 
 Mined via `achievement-miner` · 2026-09-01
 
+## Banking (2000–2006)
+
+| Period | Employer | Bullet |
+|--------|----------|--------|
+| 2000–2005 | Международный промышленный банк | Старший менеджер, Управление зачетных операций |
+| 2005–2006 | Citibank Россия | Citi Gold Manager — премиальный сегмент |
+
 ## Director, Agency Sales & Regional Distribution (Aug 2020–now)
 
 | RISE | Bullet (ready for CV) |
