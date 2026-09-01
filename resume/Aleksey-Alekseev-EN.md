@@ -1,6 +1,6 @@
 # ALEXEY ALEKSEEV
 
-**Deputy General Director, Distribution | P&L Owner · AUM RUB 1.5T | Management Board**
+**Deputy General Director, Distribution | P&L Owner · AUM RUB 1.15T | Management Board**
 
 Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621)
 
@@ -8,7 +8,7 @@ Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](ht
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **19 years** at Russia's leading private asset manager. **Full departmental P&L owner** (no shadow allocations): revenue from **all commissions on RUB 1.5T AUM**, **RUB 3B OPEX**, **RUB 4.3B net profit** (2025), **250+** team. **Invited member of the Management Board.** Alfa-Bank partner channel and **22-office** network within departmental P&L. **HNWI, Affluent, Premium, Mass Affluent.**
+Distribution leader with **19 years** at Russia's leading private asset manager. **Full departmental P&L owner** (no shadow allocations): revenue from **all commissions on RUB 1.15T AUM**, **RUB 3B OPEX**, **RUB 4.3B net profit** (2025), **250+** team. **Invited member of the Management Board.** Alfa-Bank partner channel and **22-office** network within departmental P&L. **HNWI, Affluent, Premium, Mass Affluent.**
 
 ---
 
@@ -16,7 +16,7 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 
 | Metric | Result |
 |--------|--------|
-| **Department AUM** | **RUB 1.5T** · all commission revenue in P&L · **100×+** growth over tenure |
+| **Department AUM** | **RUB 1.15T** · 52% of firm · all commission revenue in P&L · **100×+** growth |
 | **P&L (2025)** | Net profit **RUB 4.3B** · OPEX **RUB 3.0B** · **full departmental P&L** (no shadow) |
 | **Team** | **250+** FTEs · 75% of retail block · from **24** (2009) |
 | **Network** | **22** offices · **3** divisions · Moscow directorate (since 2025) |
@@ -38,7 +38,7 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 - Launched **mid/mini-office** formats (Vladivostok, Tyumen, Izhevsk, Barnaul; mini — Khabarovsk, Irkutsk)
 - Built client events program — **RUB 100M/year** budget, premium-segment lead generation
 - Led **Etazhi** partnership — real estate fund (ZPIF) distribution
-- Delivered **RUB 1.5T AUM** and **RUB 4.3B net profit** at **RUB 3B OPEX** (2025)
+- Delivered **RUB 1.15T AUM** and **RUB 4.3B net profit** at **RUB 3B OPEX** (2025)
 
 #### Director, Regional Sales Development
 **Jan 2015 — Jul 2020**

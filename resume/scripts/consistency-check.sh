@@ -46,7 +46,7 @@ for f in "$ROOT/resume/Aleksey-Alekseev-RU.md"; do
   [[ -f "$f" ]] || continue
   for pair in \
     "+7 933 271-27-77|Phone" \
-    "1,5 трлн|AuM" \
+    "1,15 трлн|AuM" \
     "4,3 млрд|Net profit" \
     "250+|Team" \
     "Приглашённый участник Правления|Board"; do
