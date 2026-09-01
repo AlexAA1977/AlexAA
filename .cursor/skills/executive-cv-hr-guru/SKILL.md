@@ -9,12 +9,16 @@ Skill for deep, repeatable resume work — headhunter-grade quality, not generic
 
 ## Pipeline orchestration
 
-This skill is the **core builder**. Run after intake and achievement mining; run before reviews:
+This skill is the **core builder**. Run after intake, mining, and board positioning; run before reviews:
 
 ```
-career-profile-intake → achievement-miner → executive-cv-hr-guru
-  → finance-am-lexicon → [jd-match-analyzer] → [linkedin-cv-sync] → [executive-search-brief]
-  → hm-red-team-review → anti-slop-gate → PDF
+career-profile-intake → achievement-miner → board-c-level-positioning
+  → [english-level-calibrator] → executive-cv-hr-guru
+  → finance-am-lexicon → [jd-match-analyzer] → [bank-employer-playbook]
+  → [executive-cover-letter] → metrics-consistency-gate
+  → hm-red-team-review → anti-slop-gate
+  → executive-ats-export → [hh-headhunter-format]
+  → [linkedin-cv-sync] → [executive-search-brief] → [post-bot-human-path]
 ```
 
 See `.cursor/skills/README.md` for full skill list.
@@ -37,8 +41,9 @@ See `.cursor/skills/README.md` for full skill list.
 Read extended profile: `resume/profile/master-profile.md`
 
 Canonical resume files live in `resume/`:
-- `Aleksey-Alekseev-RU.md` / `.html` / `.pdf`
+- `Aleksey-Alekseev-RU.md` / `.html` / `.pdf` — humans
 - `Aleksey-Alekseev-EN.md` / `.html` / `.pdf`
+- `export/*-ATS.txt` — bots (`bash resume/generate-ats-export.sh`)
 - Regenerate PDF: `bash resume/generate-pdf.sh`
 
 ## When to activate

@@ -24,6 +24,13 @@ Maintained by: `career-profile-intake` skill
 | Compensation | TBD |
 | Will not accept | TBD |
 
+## Positioning
+
+| Field | Value |
+|-------|-------|
+| positioning_tier | T2 — Board-invited / Deputy (default) |
+| target_role_primary | TBD — confirm with user |
+
 ## Education
 
 | Degree | Institution | Year | Notes |
