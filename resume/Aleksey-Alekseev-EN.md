@@ -1,6 +1,6 @@
 # ALEXEY ALEKSEEV
 
-**Deputy General Director, Distribution | P&L Owner · AUM RUB 1.15T | Management Board**
+**Deputy General Director, Distribution | P&L Owner · AUM RUB 1.5T | Management Board**
 
 Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621)
 
@@ -8,7 +8,7 @@ Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](ht
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **19 years** at Russia's leading private asset manager. **P&L owner** of a business unit with **RUB 1.15 trillion AUM** (**52%** of firm assets), **RUB 4.3B net profit** (2025), and a **250+** team. **Invited member of the Management Board.** Built omni-channel distribution across **HNWI, Affluent, Premium, and Mass Affluent** — bancassurance (Alfa-Bank), **22-office** federal network, Moscow direct sales.
+Distribution leader with **19 years** at Russia's leading private asset manager. **Full departmental P&L owner** (no shadow allocations): revenue from **all commissions on RUB 1.5T AUM**, **RUB 3B OPEX**, **RUB 4.3B net profit** (2025), **250+** team. **Invited member of the Management Board.** Alfa-Bank partner channel and **22-office** network within departmental P&L. **HNWI, Affluent, Premium, Mass Affluent.**
 
 ---
 
@@ -16,8 +16,8 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 
 | Metric | Result |
 |--------|--------|
-| **Department AUM** | **RUB 1.15T** · 52% of firm · **100×+** growth over tenure |
-| **P&L (2025)** | Net profit **RUB 4.3B** · OPEX **RUB 3.0B** |
+| **Department AUM** | **RUB 1.5T** · all commission revenue in P&L · **100×+** growth over tenure |
+| **P&L (2025)** | Net profit **RUB 4.3B** · OPEX **RUB 3.0B** · **full departmental P&L** (no shadow) |
 | **Team** | **250+** FTEs · 75% of retail block · from **24** (2009) |
 | **Network** | **22** offices · **3** divisions · Moscow directorate (since 2025) |
 | **Recognition** | Best Sales Department Director — **2020–2023** (4 consecutive years) |
@@ -32,13 +32,13 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 #### Director, Agency Sales & Regional Distribution
 **Aug 2020 — Present** · Invited Member of the Management Board
 
-- Full **P&L accountability**: AUM, revenue, OPEX, net profit
-- **Partner channel** via Alfa-Bank (retail, ONLY, A-Club) and **direct sales** (22 offices + Moscow)
+- **Full departmental P&L** (no shadow allocations): revenue (all AUM commissions), OPEX, net profit
+- **Alfa-Bank partner channel** (retail, ONLY, A-Club) and **direct sales** (22 offices + Moscow) — both **within departmental P&L**
 - Scaled network **16 → 22 offices** via **3-division** governance model
 - Launched **mid/mini-office** formats (Vladivostok, Tyumen, Izhevsk, Barnaul; mini — Khabarovsk, Irkutsk)
 - Built client events program — **RUB 100M/year** budget, premium-segment lead generation
 - Led **Etazhi** partnership — real estate fund (ZPIF) distribution
-- Delivered **RUB 1.15T AUM** and **RUB 4.3B net profit** (2025)
+- Delivered **RUB 1.5T AUM** and **RUB 4.3B net profit** at **RUB 3B OPEX** (2025)
 
 #### Director, Regional Sales Development
 **Jan 2015 — Jul 2020**

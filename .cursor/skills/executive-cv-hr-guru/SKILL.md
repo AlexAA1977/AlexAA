@@ -32,7 +32,7 @@ See `.cursor/skills/README.md` for full skill list.
 - **Current role:** Director, Agency Sales & Regional Distribution, Alfa-Capital Asset Management (since Aug 2020)
 - **Tenure at Alfa-Capital:** Dec 2006 — present
 - **Board:** Invited member of Management Board
-- **Scale:** AUM 1.15T RUB (52% of firm), net profit 4.3B RUB (2025), OPEX 3B RUB, team 250+, 22 regional offices
+- **Scale:** AUM RUB 1.5T, full departmental P&L (no shadow), net profit RUB 4.3B (2025), OPEX RUB 3B, team 250+, 22 regional offices
 - **Recognition:** Best Sales Department Director 2020–2023
 - **Segments:** HNWI, UHNWI, Affluent, Premium, Mass Affluent
 - **Channels:** Alfa-Bank bancassurance (Стойка, ONLY, А-Клуб), direct regional network, Moscow direct sales (from 2025)

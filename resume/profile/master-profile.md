@@ -45,13 +45,16 @@ Maintained by: `career-profile-intake` skill
 | Русский | Native |
 | English | TBD — confirm CEFR |
 
-## Confirmed metrics (verify before external send)
+## Confirmed metrics (user-confirmed 2026-09-01)
 
 | Metric | Value | As of |
 |--------|-------|-------|
-| Department AUM | 1,15 трлн ₽ (52% УК) | 2025 |
-| Net profit | 4,3 млрд ₽ | 2025 |
-| OPEX | 3 млрд ₽ | 2025 |
+| Department AUM | **1,5 трлн ₽** | 2025 |
+| Net profit | **4,3 млрд ₽** — вся чистая прибыль департамента | 2025 |
+| OPEX | **3 млрд ₽** — полностью P&L департамента | 2025 |
+| Revenue basis | Все комиссии с AuM 1,5 трлн ₽ | 2025 |
+| P&L scope | Полный P&L департамента; **без shadow P&L** | 2025 |
+| Partner channel | Альфа-Банк (Стойка, ONLY, А-Клуб) — **внутри P&L** департамента | current |
 | Team | 250+ (from 24 in 2009) | 2025 |
 | Regional offices | 22 (from 16) | 2025 |
 | Divisions | 3 | 2025 |
@@ -60,12 +63,23 @@ Maintained by: `career-profile-intake` skill
 | Board | Приглашённый участник Правления | current |
 | Tenure Alfa-Capital | Dec 2006 — present (19 years) | 2026 |
 
+## P&L breakdown (interview narrative)
+
+```
+Выручка:     все комиссии с AuM 1,5 трлн ₽ (партнёрский + прямые каналы)
+OPEX:        3 млрд ₽ (ФОТ, сеть, мотивация, мероприятия и др. — весь департамент)
+Чистая прибыль: 4,3 млрд ₽ (вся прибыль департамента, 2025)
+Методология: management P&L департамента, без shadow-аллокаций на уровне УК
+```
+
+**На интервью:** партнёрский канал не вынесен за периметр — bancassurance внутри вашего P&L.
+
 ## Career narrative
 
-19 лет в УК «Альфа-Капитал»: от создания агентской сети до руководства бизнес-юнитом с AuM 1,15 трлн ₽ и участия в Правлении. Специализация — omni-channel дистрибуция коллективных инвестиций, HNWI/Premium, bancassurance через Альфа-Банк, федеральная сеть прямых продаж.
+19 лет в УК «Альфа-Капитал»: от создания агентской сети до руководства департаментом с **полным P&L** (AuM **1,5 трлн ₽**, чистая прибыль **4,3 млрд ₽**) и участия в Правлении. Специализация — omni-channel дистрибуция, HNWI/Premium, bancassurance (канал внутри P&L), федеральная сеть прямых продаж.
 
 ## Do-not-use / constraints
 
 - Do not fabricate phone, English level, compensation
 - Do not include adjunct professor (доцент РЭУ) on CV — user preference 2026-09-01
-- Confirm all 2025 financial metrics before external send
+- User-confirmed P&L 2026-09-01: full departmental P&L, no shadow allocations; do not dilute with firm-level profit
