@@ -10,7 +10,7 @@ Maintained by: `career-profile-intake` skill
 | Name (RU) | Алексей Алексеев |
 | Name (EN) | Alexey Alekseev |
 | Email | aleksey.alexeev@gmail.com |
-| Phone | TBD — confirm with user |
+| Phone | +7 933 271-27-77 |
 | City | Москва |
 | LinkedIn | https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621 |
 

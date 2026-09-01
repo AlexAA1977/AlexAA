@@ -2,7 +2,7 @@
 
 **Директор по развитию дистрибуции | P&L · AuM 1,15 трлн ₽ | HNWI & Premium | Участник Правления**
 
-Москва · aleksey.alexeev@gmail.com · linkedin.com/in/алексей-алексеев-7342b621
+Москва · +7 933 271-27-77 · aleksey.alexeev@gmail.com · linkedin.com/in/алексей-алексеев-7342b621
 
 ---
 

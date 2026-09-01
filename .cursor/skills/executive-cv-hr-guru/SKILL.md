@@ -23,6 +23,7 @@ See `.cursor/skills/README.md` for full skill list.
 
 - **Name:** Alexey Alekseev (Алексей Алексеев)
 - **Email:** aleksey.alexeev@gmail.com
+- **Phone:** +7 933 271-27-77
 - **LinkedIn:** https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621
 - **Current role:** Director, Agency Sales & Regional Distribution, Alfa-Capital Asset Management (since Aug 2020)
 - **Tenure at Alfa-Capital:** Dec 2006 — present
