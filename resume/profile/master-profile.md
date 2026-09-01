@@ -1,9 +1,7 @@
 # Master Profile — Alexey Alekseev
 
-Last updated: 2026-09-01  
+Last updated: 2026-09-01 (pipeline run)  
 Maintained by: `career-profile-intake` skill
-
-> Fill TBD fields with user confirmation. All CV skills read this file first.
 
 ## Contacts
 
@@ -12,7 +10,7 @@ Maintained by: `career-profile-intake` skill
 | Name (RU) | Алексей Алексеев |
 | Name (EN) | Alexey Alekseev |
 | Email | aleksey.alexeev@gmail.com |
-| Phone | TBD |
+| Phone | TBD — confirm with user |
 | City | Москва |
 | LinkedIn | https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621 |
 
@@ -20,9 +18,9 @@ Maintained by: `career-profile-intake` skill
 
 | Field | Value |
 |-------|-------|
-| Target role(s) | TBD |
-| Target industry | Asset management / private banking / distribution leadership |
-| Geography | Москва, TBD remote/hybrid |
+| Target role(s) | Директор по дистрибуции / коммерческий директор / зам. ГД / член Правления — asset management (draft positioning) |
+| Target industry | Управляющие компании, private banking, bancassurance, wealth |
+| Geography | Москва; гибрид/командировки — TBD |
 | Compensation | TBD |
 | Will not accept | TBD |
 
@@ -30,33 +28,38 @@ Maintained by: `career-profile-intake` skill
 
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
-| Кандидат экономических наук | TBD | TBD | Confirm topic & vuz |
-| Higher education | TBD | TBD | |
+| Кандидат экономических наук | РЭУ им. Г.В. Плеханова | 2000–2004 | Тема: экономическая безопасность — **confirm with user** |
+| Высшее образование | TBD | TBD | **confirm with user** |
+| Доцент (adjunct) | РЭУ им. Г.В. Плеханова, каф. национальная экономика | TBD | Per LinkedIn — **confirm if include on CV** |
 
 ## Languages
 
 | Language | Level |
 |----------|-------|
 | Русский | Native |
-| English | TBD |
+| English | TBD — confirm CEFR |
 
-## Confirmed metrics (verify before send)
+## Confirmed metrics (verify before external send)
 
 | Metric | Value | As of |
 |--------|-------|-------|
 | Department AUM | 1,15 трлн ₽ (52% УК) | 2025 |
 | Net profit | 4,3 млрд ₽ | 2025 |
 | OPEX | 3 млрд ₽ | 2025 |
-| Team | 250+ | 2025 |
-| Regional offices | 22 | 2025 |
+| Team | 250+ (from 24 in 2009) | 2025 |
+| Regional offices | 22 (from 16) | 2025 |
+| Divisions | 3 | 2025 |
+| Event budget | 100 млн ₽/year | current |
 | Award | Лучший директор департамента продаж | 2020–2023 |
 | Board | Приглашённый участник Правления | current |
+| Tenure Alfa-Capital | Dec 2006 — present (19 years) | 2026 |
 
 ## Career narrative
 
-TBD — user free text via `career-profile-intake`
+19 лет в УК «Альфа-Капитал»: от создания агентской сети до руководства бизнес-юнитом с AuM 1,15 трлн ₽ и участия в Правлении. Специализация — omni-channel дистрибуция коллективных инвестиций, HNWI/Premium, bancassurance через Альфа-Банк, федеральная сеть прямых продаж.
 
 ## Do-not-use / constraints
 
-- Do not fabricate education, languages, or metrics
-- Confirm financial figures with user before external send
+- Do not fabricate phone, English level, compensation
+- Confirm Plekhanov degree on CV before external send
+- Confirm all 2025 financial metrics before external send

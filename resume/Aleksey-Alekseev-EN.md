@@ -1,6 +1,6 @@
 # ALEXEY ALEKSEEV
 
-**Director of Distribution & Agency Sales | Asset Management | HNWI & Premium Banking**
+**Director of Distribution | P&L Owner · AUM RUB 1.15T | HNWI & Premium | Management Board**
 
 Moscow, Russia · aleksey.alexeev@gmail.com · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621)
 
@@ -8,9 +8,7 @@ Moscow, Russia · aleksey.alexeev@gmail.com · [LinkedIn](https://www.linkedin.c
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **19 years** in asset management and retail financial products. Built and scaled sales channels across **HNWI, Affluent, Premium, and Mass Affluent** segments. Currently leading a business unit with **RUB 1.15 trillion AUM** (52% of Alfa-Capital total), a team of **250+**, and a network of **22 regional offices**. Invited member of the company's Management Board.
-
-Core expertise: **omni-channel distribution**, bancassurance, regional expansion, P&L ownership, sales transformation, and premium segment development.
+Distribution leader with **19 years** at Russia's leading private asset manager. **P&L owner** of a business unit with **RUB 1.15 trillion AUM** (**52%** of firm assets), **RUB 4.3B net profit** (2025), and a **250+** team. **Invited member of the Management Board.** Built omni-channel distribution across **HNWI, Affluent, Premium, and Mass Affluent** — bancassurance (Alfa-Bank), **22-office** federal network, Moscow direct sales.
 
 ---
 
@@ -18,89 +16,83 @@ Core expertise: **omni-channel distribution**, bancassurance, regional expansion
 
 | Metric | Result |
 |--------|--------|
-| **Department AUM** | **RUB 1.15T** (100x+ growth over tenure) |
-| **Net profit (2025)** | **RUB 4.3B** at **RUB 3.0B OPEX** |
-| **Team size** | **250+** FTEs (from 24 in 2009; 75% of retail block) |
-| **Geographic footprint** | **22** regional offices + Moscow direct sales directorate |
-| **Share of firm AUM** | **52%** of Alfa-Capital total assets |
-| **Recognition** | Best Sales Department Director — **2020–2023** |
+| **Department AUM** | **RUB 1.15T** · 52% of firm · **100×+** growth over tenure |
+| **P&L (2025)** | Net profit **RUB 4.3B** · OPEX **RUB 3.0B** |
+| **Team** | **250+** FTEs · 75% of retail block · from **24** (2009) |
+| **Network** | **22** offices · **3** divisions · Moscow directorate (since 2025) |
+| **Recognition** | Best Sales Department Director — **2020–2023** (4 consecutive years) |
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
 ### Alfa-Capital Asset Management · Moscow
-*Leading private asset manager in Russia. RUB 2T+ AUM, 2M+ clients.*
+*#1 private asset manager in Russia · RUB 2T+ AUM · 2M+ clients · Alfa Group ecosystem*
 
 #### Director, Agency Sales & Regional Distribution
 **Aug 2020 — Present** · Invited Member of the Management Board
 
-- Full **P&L accountability** for a business unit (AUM, revenue, OPEX, net profit)
-- **Partner channel:** sales development via Alfa-Bank (retail counters, ONLY, A-Club)
-- **Direct sales:** 22 regional offices; Moscow direct sales directorate launched in 2025
-- **Organization:** 250+ employees, 3 divisions, divisional director governance model
-
-**Selected results:**
-- Scaled regional network from **16 to 22 offices** via divisional management model
-- Launched **mid-size and mini-office formats** beyond million-plus cities
-- Built premium **client event program** with **RUB 100M** annual budget
-- Grew department AUM to **RUB 1.15T** and net profit to **RUB 4.3B** (2025)
-- Led strategic partnerships (e.g., Etazhi — real estate investment products)
+- Full **P&L accountability**: AUM, revenue, OPEX, net profit
+- **Partner channel** via Alfa-Bank (retail, ONLY, A-Club) and **direct sales** (22 offices + Moscow)
+- Scaled network **16 → 22 offices** via **3-division** governance model
+- Launched **mid/mini-office** formats (Vladivostok, Tyumen, Izhevsk, Barnaul; mini — Khabarovsk, Irkutsk)
+- Built client events program — **RUB 100M/year** budget, premium-segment lead generation
+- Led **Etazhi** partnership — real estate fund (ZPIF) distribution
+- Delivered **RUB 1.15T AUM** and **RUB 4.3B net profit** (2025)
 
 #### Director, Regional Sales Development
 **Jan 2015 — Jul 2020**
 
-- Established the department as a standalone business block with full operational accountability
-- Built KPI, incentive, and performance management system for regional network
-- Drove sustainable growth of mutual funds, discretionary mandates, and structured products
+- Established standalone business block with full operational and financial accountability
+- Implemented end-to-end **KPI, incentive, and performance** management for federal network
+- Drove growth of mutual funds, mandates, unit-linked, and structured products in regions
 
 #### Director of Regional Sales Development
 **Jul 2009 — Dec 2014**
 
-- Built regional distribution from early offices to a federal network
-- Grew team from **24 to 100+**
-- Defined premium service standards for affluent clients in regions
+- Built **regional distribution from zero** to federal office network
+- Grew team **24 → 100+**
+- Standardized **premium service** for HNWI/Affluent clients in regions
 
-#### Deputy Head, Agent Relations Directorate
-**Jan 2009 — Jun 2009**
+#### Deputy Head, Agent Relations Directorate · **Jan 2009 — Jun 2009**
 
-#### Head, Agent Network Development
-**Dec 2006 — Dec 2008**
+#### Head, Agent Network Development · **Dec 2006 — Dec 2008**
 
-- Joined during agency channel scale-up phase
-- Designed and implemented nationwide agent network operating model
+- Designed and implemented **nationwide agent network model** during channel scale-up
 
 ---
 
 ## CORE COMPETENCIES
 
-**Strategy & Leadership:** P&L · budgeting · sales transformation · distribution architecture · channel portfolio · board-level governance
+**Strategy & P&L:** budgeting · sales transformation · channel portfolio · board governance · change management
 
-**Products:** Mutual funds / ETFs · discretionary mandates · unit-linked · structured products · closed-end funds · pre-IPO · alternatives
+**Products:** mutual funds/ETFs · discretionary mandates · unit-linked · structured · closed-end · pre-IPO · alternatives
 
-**Segments:** HNWI · UHNWI · Affluent · Premium · Mass Affluent · corporate clients
+**Segments:** HNWI · UHNWI · Affluent · Premium · Mass Affluent
 
-**Channels:** bancassurance · direct sales · regional branch network · digital leads · strategic partnerships
-
-**People:** 250+ teams · divisional structures · KPI & incentives · leadership hiring & development
+**Channels:** bancassurance · direct sales · regional network · digital leads · strategic partnerships
 
 ---
 
 ## EDUCATION
 
-> *To be confirmed*
-
-- **Candidate of Economic Sciences** *(topic & institution TBC)*
-- *[Add: degree, MBA, professional certifications]*
+- **Candidate of Economic Sciences** — Plekhanov Russian University of Economics *(confirm before send)*
+- Higher education — *(TBC)*
 
 ---
 
 ## PUBLIC EXPERTISE
 
-- Media commentary on retail investing, ETFs, and financial planning
-- Publications: industry and regional business media
-- Speaker on investment product distribution
+- Media commentary: retail investing, ETFs, financial planning
+- Publications: industry and regional business media (Russia)
 
 ---
 
-*Version 1.0 · Based on LinkedIn profile and public sources · Blocks marked for verification*
+## ADDITIONAL
+
+- **Location:** Moscow · business travel
+- **Languages:** Russian — native; English — *(TBC)*
+
+---
+
+*Version 2.0 · Pipeline run · September 2026*
