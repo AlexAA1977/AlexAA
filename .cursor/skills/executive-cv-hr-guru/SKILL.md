@@ -7,6 +7,18 @@ description: "Executive resume and CV coaching for Alexey Alekseev (Alfa-Capital
 
 Skill for deep, repeatable resume work — headhunter-grade quality, not generic templates.
 
+## Pipeline orchestration
+
+This skill is the **core builder**. Run after intake and achievement mining; run before reviews:
+
+```
+career-profile-intake → achievement-miner → executive-cv-hr-guru
+  → finance-am-lexicon → [jd-match-analyzer] → [linkedin-cv-sync] → [executive-search-brief]
+  → hm-red-team-review → anti-slop-gate → PDF
+```
+
+See `.cursor/skills/README.md` for full skill list.
+
 ## Profile anchor (do not invent beyond this without user confirmation)
 
 - **Name:** Alexey Alekseev (Алексей Алексеев)
@@ -20,6 +32,8 @@ Skill for deep, repeatable resume work — headhunter-grade quality, not generic
 - **Segments:** HNWI, UHNWI, Affluent, Premium, Mass Affluent
 - **Channels:** Alfa-Bank bancassurance (Стойка, ONLY, А-Клуб), direct regional network, Moscow direct sales (from 2025)
 - **Location:** Moscow
+
+Read extended profile: `resume/profile/master-profile.md`
 
 Canonical resume files live in `resume/`:
 - `Aleksey-Alekseev-RU.md` / `.html` / `.pdf`
