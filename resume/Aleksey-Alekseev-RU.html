@@ -2,69 +2,155 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <title>Алексей Алексеев — Резюме v2.0</title>
+  <title>Алексей Алексеев — Резюме</title>
   <style>
-    @page { size: A4; margin: 14mm 16mm; }
+    @page { size: A4; margin: 12mm 14mm; }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 9.5pt; line-height: 1.45; color: #1a1a1a; }
-    header { border-bottom: 2.5px solid #1e3a5f; padding-bottom: 10px; margin-bottom: 14px; }
-    h1 { font-size: 22pt; font-weight: 700; color: #1e3a5f; margin-bottom: 4px; }
-    .subtitle { font-size: 10pt; font-weight: 600; color: #444; margin-bottom: 6px; }
+    body {
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-size: 9.2pt;
+      line-height: 1.38;
+      color: #1a1a1a;
+      background: #fff;
+    }
+    .page { max-width: 182mm; margin: 0 auto; }
+    header {
+      border-bottom: 2.5px solid #1e3a5f;
+      padding-bottom: 8px;
+      margin-bottom: 10px;
+    }
+    h1 {
+      font-size: 21pt;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      color: #1e3a5f;
+      margin-bottom: 3px;
+    }
+    .subtitle {
+      font-size: 9.5pt;
+      font-weight: 600;
+      color: #333;
+      line-height: 1.35;
+      margin-bottom: 5px;
+    }
     .contacts { font-size: 8.5pt; color: #555; }
-    h2 { font-size: 9.5pt; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #1e3a5f; border-bottom: 1px solid #d0d7de; padding-bottom: 3px; margin: 14px 0 8px; }
-    p { margin-bottom: 6px; }
-    .metrics { width: 100%; border-collapse: collapse; font-size: 8.8pt; margin: 6px 0; }
-    .metrics th, .metrics td { border: 1px solid #d8dee6; padding: 5px 7px; text-align: left; }
-    .metrics th { background: #f4f7fb; color: #1e3a5f; width: 38%; }
-    .company { font-size: 10pt; font-weight: 700; margin-top: 8px; }
-    .company-note { font-size: 8.5pt; font-style: italic; color: #666; margin-bottom: 4px; }
-    .role { font-size: 9.5pt; font-weight: 700; margin-top: 6px; }
-    .period { font-size: 8.5pt; color: #666; margin-bottom: 4px; }
-    ul { margin: 4px 0 8px 16px; }
-    li { margin-bottom: 3px; }
-    .competency { margin-bottom: 4px; font-size: 9pt; }
-    .footer { margin-top: 12px; font-size: 7.5pt; color: #888; border-top: 1px solid #eee; padding-top: 6px; }
+    h2 {
+      font-size: 9pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: #1e3a5f;
+      border-bottom: 1px solid #d0d7de;
+      padding-bottom: 2px;
+      margin: 10px 0 6px;
+    }
+    p { margin-bottom: 5px; }
+    .metrics {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 4px 0 2px;
+      font-size: 8.4pt;
+    }
+    .metrics th, .metrics td {
+      border: 1px solid #d8dee6;
+      padding: 4px 6px;
+      text-align: left;
+      vertical-align: top;
+    }
+    .metrics th {
+      background: #f4f7fb;
+      color: #1e3a5f;
+      width: 36%;
+      font-weight: 600;
+    }
+    .company { font-size: 9.8pt; font-weight: 700; color: #222; margin-top: 6px; }
+    .company-note { font-size: 8pt; font-style: italic; color: #666; margin-bottom: 2px; }
+    .role { font-size: 9.2pt; font-weight: 700; margin-top: 5px; color: #333; }
+    .period { font-size: 8.2pt; color: #666; margin-bottom: 3px; }
+    ul { margin: 2px 0 5px 14px; padding: 0; }
+    li { margin-bottom: 2px; }
+    .competency { margin-bottom: 3px; font-size: 8.8pt; }
+    .label { font-weight: 700; }
+    .two-col { display: flex; gap: 12px; }
+    .two-col > div { flex: 1; }
     strong { font-weight: 700; }
   </style>
 </head>
 <body>
-  <header>
-    <h1>АЛЕКСЕЙ АЛЕКСЕЕВ</h1>
-    <div class="subtitle">Директор по развитию дистрибуции · P&L · AuM 1,15 трлн ₽ · HNWI & Premium · Участник Правления</div>
-    <div class="contacts">Москва · aleksey.alexeev@gmail.com · LinkedIn</div>
-  </header>
+  <div class="page">
+    <header>
+      <h1>АЛЕКСЕЙ АЛЕКСЕЕВ</h1>
+      <div class="subtitle">Директор по развитию дистрибуции · P&L · AuM 1,15 трлн ₽ · HNWI &amp; Premium · Участник Правления</div>
+      <div class="contacts">Москва · aleksey.alexeev@gmail.com · linkedin.com/in/алексей-алексеев-7342b621</div>
+    </header>
 
-  <h2>Executive Summary</h2>
-  <p>Руководитель с <strong>19-летним опытом</strong> в крупнейшей частной УК России. P&L бизнес-юнита: <strong>AuM 1,15 трлн ₽</strong> (52% активов), <strong>чистая прибыль 4,3 млрд ₽</strong> (2025), команда <strong>250+</strong>. <strong>Участник Правления.</strong> Omni-channel дистрибуция: HNWI, Affluent, Premium — bancassurance, 22 офиса, Москва.</p>
+    <h2>Executive Summary</h2>
+    <p>Руководитель с <strong>19-летним опытом</strong> в крупнейшей частной УК России. Владею P&L бизнес-юнита с <strong>AuM 1,15 трлн ₽</strong> (<strong>52%</strong> активов компании), <strong>чистой прибылью 4,3 млрд ₽</strong> (2025) и командой <strong>250+</strong> человек. <strong>Приглашённый участник Правления.</strong> Omni-channel дистрибуция в сегментах <strong>HNWI, Affluent, Premium и Mass Affluent</strong> — bancassurance (Альфа-Банк), <strong>22 офиса</strong>, прямые продажи в Москве.</p>
 
-  <h2>Ключевые результаты</h2>
-  <table class="metrics">
-    <tr><th>AuM</th><td><strong>1,15 трлн ₽</strong> · 52% УК · рост 100+×</td></tr>
-    <tr><th>P&L (2025)</th><td>Прибыль <strong>4,3 млрд ₽</strong> · OPEX <strong>3 млрд ₽</strong></td></tr>
-    <tr><th>Команда</th><td><strong>250+</strong> · ¾ розничного блока</td></tr>
-    <tr><th>Сеть</th><td><strong>22</strong> офиса · 3 дивизиона</td></tr>
-    <tr><th>Награда</th><td>Лучший директор департамента продаж 2020–2023</td></tr>
-  </table>
+    <h2>Ключевые результаты</h2>
+    <table class="metrics">
+      <tr><th>AuM департамента</th><td><strong>1,15 трлн ₽</strong> · 52% активов УК · рост <strong>100+×</strong></td></tr>
+      <tr><th>P&L (2025)</th><td>Чистая прибыль <strong>4,3 млрд ₽</strong> · OPEX <strong>3 млрд ₽</strong></td></tr>
+      <tr><th>Команда</th><td><strong>250+</strong> FTE · ¾ розничного блока · с 24 чел. (2009)</td></tr>
+      <tr><th>Сеть</th><td><strong>22</strong> офиса · <strong>3</strong> дивизиона · Москва (с 2025)</td></tr>
+      <tr><th>Признание</th><td>Лучший директор департамента продаж — <strong>2020–2023</strong></td></tr>
+    </table>
 
-  <h2>Опыт — УК «Альфа-Капитал»</h2>
-  <div class="role">Директор департамента по развитию агентских продаж и региональной дистрибуции</div>
-  <div class="period">Авг 2020 — н.в. · Правление</div>
-  <ul>
-    <li>P&L: AuM, выручка, OPEX, чистая прибыль</li>
-    <li>Альфа-Банк (Стойка, ONLY, А-Клуб) + 22 офиса + Москва</li>
-    <li>Сеть 16→22, 3 дивизиона, мидл/мини-офисы в 6 городах</li>
-    <li>Мероприятия 100 млн ₽/год; партнёрство «Этажи»</li>
-  </ul>
-  <div class="role">Директор департамента по развитию продаж в регионах</div>
-  <div class="period">Янв 2015 — Июл 2020</div>
-  <div class="role">Директор по развитию продаж в регионах</div>
-  <div class="period">Июл 2009 — Дек 2014 · команда 24→100+</div>
-  <div class="role">Начальник отдела развития агентской сети</div>
-  <div class="period">Дек 2006 — Дек 2008</div>
+    <h2>Опыт работы</h2>
+    <div class="company">ООО УК «Альфа-Капитал» · Москва</div>
+    <div class="company-note">Частная УК №1 в России · AuM 2+ трлн ₽ · 2+ млн клиентов · Альфа-Групп</div>
 
-  <h2>Образование</h2>
-  <p>Кандидат экономических наук — РЭУ им. Г.В. Плеханова <em>(подтвердить)</em></p>
+    <div class="role">Директор департамента по развитию агентских продаж и региональной дистрибуции</div>
+    <div class="period">Август 2020 — настоящее время · Приглашённый участник Правления</div>
+    <ul>
+      <li><strong>P&L-ответственность:</strong> AuM, выручка, OPEX, чистая прибыль бизнес-юнита</li>
+      <li><strong>Каналы:</strong> Альфа-Банк (Стойка, ONLY, А-Клуб) + 22 офиса + дирекция в Москве</li>
+      <li>Масштабировал сеть <strong>16 → 22</strong> офиса; дивизиональная модель (<strong>3</strong> дивизиона)</li>
+      <li>Мидл/мини-офисы: Владивосток, Тюмень, Ижевск, Барнаул, Хабаровск, Иркутск</li>
+      <li>Клиентские мероприятия — бюджет <strong>100 млн ₽/год</strong>; партнёрство с «Этажи» (ЗПИФ)</li>
+      <li><strong>AuM 1,15 трлн ₽</strong> · чистая прибыль <strong>4,3 млрд ₽</strong> (2025)</li>
+    </ul>
 
-  <div class="footer">Версия 2.0 · Pipeline · Сентябрь 2026</div>
+    <div class="role">Директор департамента по развитию продаж в регионах</div>
+    <div class="period">Январь 2015 — Июль 2020</div>
+    <ul>
+      <li>Самостоятельный бизнес-блок с полной операционной и финансовой ответственностью</li>
+      <li>KPI, мотивация, контроль эффективности; рост ПИФ, ДУ, ИСЖ, структурных продуктов</li>
+    </ul>
+
+    <div class="role">Директор по развитию продаж в регионах</div>
+    <div class="period">Июль 2009 — Декабрь 2014</div>
+    <ul>
+      <li>Дистрибуция с нуля до федеральной сети; команда <strong>24 → 100+</strong></li>
+      <li>Стандарты премиального сервиса HNWI/Affluent в регионах</li>
+    </ul>
+
+    <div class="role">Заместитель руководителя дирекции по работе с агентами</div>
+    <div class="period">Январь 2009 — Июнь 2009</div>
+
+    <div class="role">Начальник отдела развития агентской сети</div>
+    <div class="period">Декабрь 2006 — Декабрь 2008</div>
+    <ul><li>Модель агентской сети на этапе масштабирования канала по России</li></ul>
+
+    <div class="two-col">
+      <div>
+        <h2>Компетенции</h2>
+        <div class="competency"><span class="label">Стратегия:</span> P&L · бюджетирование · трансформация · Правление</div>
+        <div class="competency"><span class="label">Продукты:</span> ПИФ/БПИФ · ДУ · ИСЖ · ЗПИФ · pre-IPO</div>
+        <div class="competency"><span class="label">Сегменты:</span> HNWI · UHNWI · Affluent · Premium</div>
+        <div class="competency"><span class="label">Каналы:</span> bancassurance · прямые · digital · партнёрства</div>
+      </div>
+      <div>
+        <h2>Образование</h2>
+        <p><strong>Кандидат экономических наук</strong><br>РЭУ им. Г.В. Плеханова<br>Экономическая безопасность</p>
+        <h2>Экспертиза</h2>
+        <ul>
+          <li>Комментарии в СМИ: БПИФ, розничные инвестиции</li>
+          <li>«Кто главный», «Деловой Петербург», «Коммерсантъ»</li>
+        </ul>
+        <p style="margin-top:6px;font-size:8.5pt;color:#555;">Москва · командировки</p>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
