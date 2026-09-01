@@ -1,6 +1,6 @@
 # ALEXEY ALEKSEEV
 
-**Director of Distribution | P&L Owner · AUM RUB 1.15T | HNWI & Premium | Management Board**
+**Deputy General Director, Distribution | P&L Owner · AUM RUB 1.15T | Management Board**
 
 Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621)
 

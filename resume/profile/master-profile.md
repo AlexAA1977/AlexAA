@@ -18,7 +18,7 @@ Maintained by: `career-profile-intake` skill
 
 | Field | Value |
 |-------|-------|
-| Target role(s) | Директор по дистрибуции / коммерческий директор / зам. ГД / член Правления — asset management (draft positioning) |
+| Target role(s) | **Primary:** заместитель генерального директора по дистрибуции · Secondary: коммерческий директор УК/банка, директор по дистрибуции (крупная фин. группа) |
 | Target industry | Управляющие компании, private banking, bancassurance, wealth |
 | Geography | Москва; гибрид/командировки — TBD |
 | Compensation | TBD |
@@ -28,8 +28,8 @@ Maintained by: `career-profile-intake` skill
 
 | Field | Value |
 |-------|-------|
-| positioning_tier | T2 — Board-invited / Deputy (default) |
-| target_role_primary | TBD — confirm with user |
+| positioning_tier | T2 — Deputy / Board-invited (confirmed 2026-09-01) |
+| target_role_primary | Заместитель генерального директора по дистрибуции |
 
 ## Education
 

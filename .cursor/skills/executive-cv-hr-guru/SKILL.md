@@ -37,6 +37,7 @@ See `.cursor/skills/README.md` for full skill list.
 - **Segments:** HNWI, UHNWI, Affluent, Premium, Mass Affluent
 - **Channels:** Alfa-Bank bancassurance (Стойка, ONLY, А-Клуб), direct regional network, Moscow direct sales (from 2025)
 - **Location:** Moscow
+- **Target role (primary):** Deputy General Director, Distribution (заместитель генерального директора по дистрибуции)
 
 Read extended profile: `resume/profile/master-profile.md`
 
