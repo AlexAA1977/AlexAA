@@ -9,12 +9,16 @@ Skill for deep, repeatable resume work — headhunter-grade quality, not generic
 
 ## Pipeline orchestration
 
-This skill is the **core builder**. Run after intake and achievement mining; run before reviews:
+This skill is the **core builder**. Run after intake, mining, and board positioning; run before reviews:
 
 ```
-career-profile-intake → achievement-miner → executive-cv-hr-guru
-  → finance-am-lexicon → [jd-match-analyzer] → [linkedin-cv-sync] → [executive-search-brief]
-  → hm-red-team-review → anti-slop-gate → PDF
+career-profile-intake → achievement-miner → board-c-level-positioning
+  → [english-level-calibrator] → executive-cv-hr-guru
+  → finance-am-lexicon → [jd-match-analyzer] → [bank-employer-playbook]
+  → [executive-cover-letter] → metrics-consistency-gate
+  → hm-red-team-review → anti-slop-gate
+  → executive-ats-export → [hh-headhunter-format]
+  → [linkedin-cv-sync] → [executive-search-brief] → [post-bot-human-path]
 ```
 
 See `.cursor/skills/README.md` for full skill list.
@@ -23,21 +27,25 @@ See `.cursor/skills/README.md` for full skill list.
 
 - **Name:** Alexey Alekseev (Алексей Алексеев)
 - **Email:** aleksey.alexeev@gmail.com
+- **Phone:** +7 933 271-27-77
 - **LinkedIn:** https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621
 - **Current role:** Director, Agency Sales & Regional Distribution, Alfa-Capital Asset Management (since Aug 2020)
 - **Tenure at Alfa-Capital:** Dec 2006 — present
+- **Prior banking:** Mezhprombank (2000–2005, clearing ops); Citibank Russia (2005–2006, Citi Gold Manager)
 - **Board:** Invited member of Management Board
-- **Scale:** AUM 1.15T RUB (52% of firm), net profit 4.3B RUB (2025), OPEX 3B RUB, team 250+, 22 regional offices
+- **Scale:** AUM RUB 1.15T (52% of firm), full departmental P&L (no shadow), net profit RUB 4.3B (2025), OPEX RUB 3B, team 250+, 22 regional offices
 - **Recognition:** Best Sales Department Director 2020–2023
 - **Segments:** HNWI, UHNWI, Affluent, Premium, Mass Affluent
 - **Channels:** Alfa-Bank bancassurance (Стойка, ONLY, А-Клуб), direct regional network, Moscow direct sales (from 2025)
 - **Location:** Moscow
+- **Target role (primary):** Deputy General Director, Distribution (заместитель генерального директора по дистрибуции)
 
 Read extended profile: `resume/profile/master-profile.md`
 
 Canonical resume files live in `resume/`:
-- `Aleksey-Alekseev-RU.md` / `.html` / `.pdf`
+- `Aleksey-Alekseev-RU.md` / `.html` / `.pdf` — humans
 - `Aleksey-Alekseev-EN.md` / `.html` / `.pdf`
+- `export/*-ATS.txt` — bots (`bash resume/generate-ats-export.sh`)
 - Regenerate PDF: `bash resume/generate-pdf.sh`
 
 ## When to activate

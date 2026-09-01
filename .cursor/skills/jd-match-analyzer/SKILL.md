@@ -63,4 +63,6 @@ Apply edits via `executive-cv-hr-guru` mode 3 (Tailor to JD).
 
 - Never claim skills user lacks — use REFRAME or flag gap in cover letter
 - For asset management / banking JDs, run `finance-am-lexicon` for terminology alignment
+- For Sber / VTB / GPB, run `bank-employer-playbook` after this skill
 - Russian JD → RU tailored file; international → EN
+- If match <85%, invoke `executive-cover-letter`
