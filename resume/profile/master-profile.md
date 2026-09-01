@@ -28,9 +28,8 @@ Maintained by: `career-profile-intake` skill
 
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
-| Кандидат экономических наук | РЭУ им. Г.В. Плеханова | — | Кандидатская диссертация; тема: экономическая безопасность (LinkedIn) |
-| Высшее образование | УрГЭУ (Уральский гос. экономический университет) | TBD | Подтверждено пользователем 2026-09-01 |
-| Доцент (adjunct) | РЭУ им. Г.В. Плеханова, каф. национальная экономика | TBD | Per LinkedIn — optional on CV |
+| Кандидат экономических наук | РЭУ им. Г.В. Плеханова | 2003 | Кандидатская диссертация; тема: экономическая безопасность |
+| Специалист, «Банковское дело» | УрГЭУ (Уральский гос. экономический университет) | 1995–2000 | Подтверждено пользователем 2026-09-01 |
 
 ## Languages
 
@@ -61,5 +60,5 @@ Maintained by: `career-profile-intake` skill
 ## Do-not-use / constraints
 
 - Do not fabricate phone, English level, compensation
-- Confirm Plekhanov degree on CV before external send
+- Do not include adjunct professor (доцент РЭУ) on CV — user preference 2026-09-01
 - Confirm all 2025 financial metrics before external send

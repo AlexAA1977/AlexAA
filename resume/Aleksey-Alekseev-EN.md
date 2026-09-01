@@ -76,8 +76,8 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 
 ## EDUCATION
 
-- **Candidate of Economic Sciences** — Plekhanov Russian University of Economics (PhD dissertation)
-- **Higher education** — Ural State University of Economics (USUE / УрГЭУ)
+- **Candidate of Economic Sciences** — Plekhanov Russian University of Economics, 2003
+- **Specialist in Banking** — Ural State University of Economics (USUE), 1995–2000
 
 ---
 
