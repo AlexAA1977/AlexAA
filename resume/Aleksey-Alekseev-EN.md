@@ -26,20 +26,6 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 
 ## PROFESSIONAL EXPERIENCE
 
-### International Industrial Bank (Mezhprombank) · Moscow
-
-#### Senior Manager, Clearing Operations
-**2000 — 2005**
-
-- Managed clearing and settlement operations in a universal bank
-
-### Citibank · Russia
-
-#### Citi Gold Manager
-**2005 — 2006**
-
-- Premium-segment client relationships (**Citi Gold**) — foundation for **HNWI/Premium** expertise
-
 ### Alfa-Capital Asset Management · Moscow
 *#1 private asset manager in Russia · RUB 2T+ AUM · 2M+ clients · Alfa Group ecosystem*
 
@@ -69,6 +55,20 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 **Dec 2006 — Jun 2009**
 
 - Designed and implemented **nationwide agent network model** during channel scale-up
+
+### International Industrial Bank (Mezhprombank) · Moscow
+
+#### Senior Manager, Clearing Operations
+**2000 — 2005**
+
+- Managed clearing and settlement operations in a universal bank
+
+### Citibank · Russia
+
+#### Citi Gold Manager
+**2005 — 2006**
+
+- Premium-segment client relationships (**Citi Gold**) — foundation for **HNWI/Premium** expertise
 
 ---
 
@@ -103,4 +103,4 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 - **Location:** Moscow · business travel
 - **Languages:** Russian — native
 
-*Version 3.0 · September 2026*
+*Version 3.1 · September 2026*
