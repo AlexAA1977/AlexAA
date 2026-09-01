@@ -8,7 +8,7 @@ Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](ht
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **25 years** in financial services — **banking** (International Industrial Bank, **Citibank Citi Gold**) and **19 years** at Russia's leading private asset manager. **Invited member of the Management Board.** **Full departmental P&L owner** (no shadow allocations): **RUB 1.15T AUM** (52% of firm), **RUB 4.3B net profit**, **RUB 3B OPEX** (2025), **250+** team. Built **omni-channel distribution** and **cross-selling** of investment products across **HNWI, Private Banking, Premium, and Affluent** — bancassurance (Alfa-Bank), **22-office** federal network, digital channels.
+Distribution leader with **19 years** at Russia's leading private asset manager. **Invited member of the Management Board.** **Full departmental P&L owner** (no shadow allocations): **RUB 1.15T AUM** (52% of firm), **RUB 4.3B net profit**, **RUB 3B OPEX** (2025), **250+** team. Built **omni-channel distribution** and **cross-selling** of investment products across **HNWI, Private Banking, Premium, and Affluent** — bancassurance (Alfa-Bank), **22-office** federal network, digital channels.
 
 ---
 
@@ -56,19 +56,7 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 
 - Designed and implemented **nationwide agent network model** during channel scale-up
 
-### International Industrial Bank (Mezhprombank) · Moscow
-
-#### Senior Manager, Clearing Operations
-**2000 — 2005**
-
-- Managed clearing and settlement operations in a universal bank
-
-### Citibank · Russia
-
-#### Citi Gold Manager
-**2005 — 2006**
-
-- Premium-segment client relationships (**Citi Gold**) — foundation for **HNWI/Premium** expertise
+*Prior banking experience serving **high-net-worth** clients.*
 
 ---
 
@@ -103,4 +91,4 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 - **Location:** Moscow · business travel
 - **Languages:** Russian — native
 
-*Version 3.1 · September 2026*
+*Version 3.2 · September 2026*
