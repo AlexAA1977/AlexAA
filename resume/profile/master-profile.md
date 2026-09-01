@@ -1,6 +1,6 @@
 # Master Profile — Alexey Alekseev
 
-Last updated: 2026-09-01 (pipeline run)  
+Last updated: 2026-09-01 (pipeline v3.0 — full Tier 1–3 run)  
 Maintained by: `career-profile-intake` skill
 
 ## Contacts

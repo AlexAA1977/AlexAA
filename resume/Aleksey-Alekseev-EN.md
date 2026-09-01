@@ -1,6 +1,6 @@
 # ALEXEY ALEKSEEV
 
-**Deputy General Director, Distribution | P&L Owner · AUM RUB 1.15T | Management Board**
+**Deputy General Director, Distribution | P&L · Management Board | AUM RUB 1.15T**
 
 Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2-7342b621)
 
@@ -8,7 +8,7 @@ Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](ht
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **25 years** in financial services — **banking** (International Industrial Bank, Citibank) and **19 years** at Russia's leading private asset manager. **Full departmental P&L owner** (no shadow allocations): revenue from **all commissions on RUB 1.15T AUM**, **RUB 3B OPEX**, **RUB 4.3B net profit** (2025), **250+** team. **Invited member of the Management Board.** Alfa-Bank partner channel and **22-office** network within departmental P&L. **HNWI, Affluent, Premium, Mass Affluent.**
+Distribution leader with **25 years** in financial services — **banking** (International Industrial Bank, **Citibank Citi Gold**) and **19 years** at Russia's leading private asset manager. **Invited member of the Management Board.** **Full departmental P&L owner** (no shadow allocations): **RUB 1.15T AUM** (52% of firm), **RUB 4.3B net profit**, **RUB 3B OPEX** (2025), **250+** team. Built **omni-channel distribution** and **cross-selling** of investment products across **HNWI, Private Banking, Premium, and Affluent** — bancassurance (Alfa-Bank), **22-office** federal network, digital channels.
 
 ---
 
@@ -16,10 +16,10 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 
 | Metric | Result |
 |--------|--------|
-| **Department AUM** | **RUB 1.15T** · 52% of firm · all commission revenue in P&L · **100×+** growth |
-| **P&L (2025)** | Net profit **RUB 4.3B** · OPEX **RUB 3.0B** · **full departmental P&L** (no shadow) |
+| **Department AUM** | **RUB 1.15T** · 52% of firm · **100×+** growth over tenure |
+| **P&L (2025)** | Net profit **RUB 4.3B** · OPEX **RUB 3.0B** · full departmental P&L (no shadow) |
+| **Federal network** | **22** offices · **3** divisions · Moscow directorate (since 2025) |
 | **Team** | **250+** FTEs · 75% of retail block · from **24** (2009) |
-| **Network** | **22** offices · **3** divisions · Moscow directorate (since 2025) |
 | **Recognition** | Best Sales Department Director — **2020–2023** (4 consecutive years) |
 
 ---
@@ -31,14 +31,14 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 #### Senior Manager, Clearing Operations
 **2000 — 2005**
 
-- Clearing and settlement operations in a universal bank
+- Managed clearing and settlement operations in a universal bank
 
 ### Citibank · Russia
 
 #### Citi Gold Manager
 **2005 — 2006**
 
-- Premium-segment client relationships (**Citi Gold**)
+- Premium-segment client relationships (**Citi Gold**) — foundation for **HNWI/Premium** expertise
 
 ### Alfa-Capital Asset Management · Moscow
 *#1 private asset manager in Russia · RUB 2T+ AUM · 2M+ clients · Alfa Group ecosystem*
@@ -46,31 +46,27 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 #### Director, Agency Sales & Regional Distribution
 **Aug 2020 — Present** · Invited Member of the Management Board
 
-- **Full departmental P&L** (no shadow allocations): revenue (all AUM commissions), OPEX, net profit
-- **Alfa-Bank partner channel** (retail, ONLY, A-Club) and **direct sales** (22 offices + Moscow) — both **within departmental P&L**
-- Scaled network **16 → 22 offices** via **3-division** governance model
-- Launched **mid/mini-office** formats (Vladivostok, Tyumen, Izhevsk, Barnaul; mini — Khabarovsk, Irkutsk)
-- Built client events program — **RUB 100M/year** budget, premium-segment lead generation
-- Led **Etazhi** partnership — real estate fund (ZPIF) distribution
+- **Full departmental P&L** (no shadow): revenue (all AUM commissions), OPEX, net profit
+- Lead **cross-selling** via **Alfa-Bank partner channel** (retail, ONLY, A-Club) and **direct sales** (22 offices + Moscow) — both within P&L
+- Scaled **federal network** **16 → 22 offices** via **divisional transformation** (3 divisions)
+- Launched mid/mini-offices in 6 cities; **client experience** program — **RUB 100M/year**
 - Delivered **RUB 1.15T AUM** and **RUB 4.3B net profit** at **RUB 3B OPEX** (2025)
 
 #### Director, Regional Sales Development
 **Jan 2015 — Jul 2020**
 
-- Established standalone business block with full operational and financial accountability
-- Implemented end-to-end **KPI, incentive, and performance** management for federal network
-- Drove growth of mutual funds, mandates, unit-linked, and structured products in regions
+- Established standalone business block with full P&L accountability
+- Implemented **data-driven KPI**, incentives, and management reporting for federal network
+- Drove growth of mutual funds, ETFs, mandates, unit-linked, and structured products
 
 #### Director of Regional Sales Development
 **Jul 2009 — Dec 2014**
 
-- Built **regional distribution from zero** to federal office network
-- Grew team **24 → 100+**
-- Standardized **premium service** for HNWI/Affluent clients in regions
+- Built regional distribution **from zero** to federal office network; team **24 → 100+**
+- Standardized **premium service** for HNWI/Affluent clients
 
-#### Deputy Head, Agent Relations Directorate · **Jan 2009 — Jun 2009**
-
-#### Head, Agent Network Development · **Dec 2006 — Dec 2008**
+#### Head, Agent Network Development → Deputy Head, Agent Directorate
+**Dec 2006 — Jun 2009**
 
 - Designed and implemented **nationwide agent network model** during channel scale-up
 
@@ -78,13 +74,13 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 
 ## CORE COMPETENCIES
 
-**Strategy & P&L:** budgeting · sales transformation · channel portfolio · board governance · change management
+**Strategy & P&L:** budgeting · sales transformation · channel portfolio · board governance · change management · **wealth management**
 
 **Products:** mutual funds/ETFs · discretionary mandates · unit-linked · structured · closed-end · pre-IPO · alternatives
 
-**Segments:** HNWI · UHNWI · Affluent · Premium · Mass Affluent
+**Segments:** HNWI · UHNWI · **Private Banking** · Affluent · Premium · Mass Affluent
 
-**Channels:** bancassurance · direct sales · regional network · digital leads · strategic partnerships
+**Channels:** bancassurance · **cross-selling** · **omni-channel** · federal network · digital leads · strategic partnerships
 
 ---
 
@@ -105,8 +101,6 @@ Distribution leader with **25 years** in financial services — **banking** (Int
 ## ADDITIONAL
 
 - **Location:** Moscow · business travel
-- **Languages:** Russian — native; English — *(TBC)*
+- **Languages:** Russian — native
 
----
-
-*Version 2.0 · Pipeline run · September 2026*
+*Version 3.0 · September 2026*
