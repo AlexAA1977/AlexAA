@@ -8,7 +8,7 @@ Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](ht
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **19 years** at Russia's leading private asset manager. **Invited member of the Management Board.** **Full departmental P&L owner** (no shadow allocations): **RUB 1.15T AUM** (52% of firm), **RUB 4.3B net profit**, **RUB 3B OPEX** (2025), **250+** team. Built **omni-channel distribution** and **cross-selling** of investment products across **HNWI, Private Banking, Premium, and Affluent** — bancassurance (Alfa-Bank), **24-office** federal network, digital channels.
+Distribution leader with **19 years** at Russia's leading private asset manager and banking background (**Citibank Citi Gold**). **Invited member of the Management Board.** **Full departmental P&L owner** (no shadow allocations): **RUB 1.15T AUM** (52% of firm), **RUB 4.3B net profit**, **RUB 3B OPEX** (2025), **250+** team. Built **omni-channel distribution** and **cross-selling** of investment products across **HNWI, Private Banking, Premium, and Affluent** — bancassurance (Alfa-Bank), **24-office** federal network, digital channels.
 
 ---
 
@@ -56,7 +56,14 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 
 - Designed and implemented **nationwide agent network model** during channel scale-up
 
-*Prior banking experience serving **high-net-worth** clients.*
+### Citibank · Russia
+#### Citi Gold Manager
+**2005 — 2006**
+
+- Served **Citi Gold** premium clients — relationship management and service for **HNWI / high-net-worth**
+- Built **Private Banking / Premium** expertise carried into subsequent AM career
+
+*Before 2005 — banking experience in a universal bank (operations).*
 
 ---
 
@@ -91,4 +98,4 @@ Distribution leader with **19 years** at Russia's leading private asset manager.
 - **Location:** Moscow · business travel
 - **Languages:** Russian — native
 
-*Version 3.2 · September 2026*
+*Version 4.2 · September 2026*
