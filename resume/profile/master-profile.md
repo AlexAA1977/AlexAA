@@ -56,7 +56,7 @@ Maintained by: `career-profile-intake` skill
 | P&L scope | Полный P&L департамента; **без shadow P&L** | 2025 |
 | Partner channel | Альфа-Банк (Стойка, ONLY, А-Клуб) — **внутри P&L** департамента | current |
 | Team | 250+ (from 24 in 2009) | 2025 |
-| Regional offices | 22 (from 16) | 2025 |
+| Regional offices | 24 (from 16) | 2025 |
 | Divisions | 3 | 2025 |
 | Event budget | 100 млн ₽/year | current |
 | Award | Лучший директор департамента продаж | 2020–2023 |
