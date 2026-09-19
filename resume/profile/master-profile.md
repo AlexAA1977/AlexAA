@@ -54,7 +54,7 @@ Maintained by: `career-profile-intake` skill
 | OPEX | **3 млрд ₽** — полностью P&L департамента | 2025 |
 | Revenue basis | Все комиссии с AuM 1,15 трлн ₽ | 2025 |
 | P&L scope | Полный P&L департамента; **без shadow P&L** | 2025 |
-| Partner channel | Альфа-Банк (Стойка, ONLY, А-Клуб) — **внутри P&L** департамента | current |
+| Partner channels | Альфа-Банк (Стойка, ONLY, А-Клуб), Уралсиб, МТС и др. — **внутри P&L** | current |
 | Team | 250+ (from 24 in 2009) | 2025 |
 | Regional offices | 24 (from 16) | 2025 |
 | Divisions | 3 | 2025 |

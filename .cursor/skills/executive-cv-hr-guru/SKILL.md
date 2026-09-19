@@ -36,7 +36,7 @@ See `.cursor/skills/README.md` for full skill list.
 - **Scale:** AUM RUB 1.15T (52% of firm), full departmental P&L (no shadow), net profit RUB 4.3B (2025), OPEX RUB 3B, team 250+, 22 regional offices
 - **Recognition:** Best Sales Department Director 2020–2023
 - **Segments:** HNWI, UHNWI, Affluent, Premium, Mass Affluent
-- **Channels:** Alfa-Bank bancassurance (Стойка, ONLY, А-Клуб), direct regional network, Moscow direct sales (from 2025)
+- **Channels:** bancassurance: Alfa-Bank (Стойка, ONLY, А-Клуб), Uralsib, MTS and others, direct regional network, Moscow direct sales (from 2025)
 - **Location:** Moscow
 - **Target role (primary):** Deputy General Director, Distribution (заместитель генерального директора по дистрибуции)
 

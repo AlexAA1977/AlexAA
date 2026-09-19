@@ -8,7 +8,7 @@ Moscow, Russia · +7 933 271-27-77 · aleksey.alexeev@gmail.com · [LinkedIn](ht
 
 ## EXECUTIVE SUMMARY
 
-Distribution leader with **19 years** at Russia's leading private asset manager and banking background (**Citibank Citi Gold**). **Invited member of the Management Board.** **Full departmental P&L owner** (no shadow allocations): **RUB 1.15T AUM** (52% of firm), **RUB 4.3B net profit**, **RUB 3B OPEX** (2025), **250+** team. Built **omni-channel distribution** and **cross-selling** of investment products across **HNWI, Private Banking, Premium, and Affluent** — bancassurance (Alfa-Bank), **24-office** federal network, digital channels.
+Distribution leader with **19 years** at Russia's leading private asset manager and banking background (**Citibank Citi Gold**). **Invited member of the Management Board.** **Full departmental P&L owner** (no shadow allocations): **RUB 1.15T AUM** (52% of firm), **RUB 4.3B net profit**, **RUB 3B OPEX** (2025), **250+** team. Built **omni-channel distribution** and **cross-selling** of investment products across **HNWI, Private Banking, Premium, and Affluent** — bancassurance (**Alfa-Bank**, **Uralsib**, **MTS** and others), **24-office** federal network, digital channels.
 
 ---
 
@@ -33,7 +33,7 @@ Distribution leader with **19 years** at Russia's leading private asset manager 
 **Aug 2020 — Present** · Invited Member of the Management Board
 
 - **Full departmental P&L** (no shadow): revenue (all AUM commissions), OPEX, net profit
-- Lead **cross-selling** via **Alfa-Bank partner channel** (retail, ONLY, A-Club) and **direct sales** (24 offices + Moscow) — both within P&L
+- Lead **cross-selling** via **partner financial institutions** — Alfa-Bank (retail, ONLY, A-Club), **Uralsib**, **MTS** and others — and **direct sales** (24 offices + Moscow) — both within P&L
 - Scaled **federal network** **16 → 24 offices** via **divisional transformation** (3 divisions)
 - Launched mid/mini-offices in 6 cities; **client experience** program — **RUB 100M/year**
 - Delivered **RUB 1.15T AUM** and **RUB 4.3B net profit** at **RUB 3B OPEX** (2025)

@@ -70,7 +70,7 @@ Reference for `bank-employer-playbook` skill. Update when real JD patterns chang
 |--------|-----------------|
 | P&L owner | Yes — 4,3 млрд ₽, OPEX 3 млрд ₽ |
 | 150+ team | Yes — 250+ |
-| Bancassurance | Yes — Альфа-Банк channels |
+| Bancassurance | Yes — Альфа-Банк, Уралсиб, МТС и др. |
 | Board | Yes — приглашённый участник Правления |
 | Universal bank HQ | **No** — gap for cover letter |
 | English B2+ | **TBD** — run `english-level-calibrator` |
