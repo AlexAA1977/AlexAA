@@ -18,7 +18,7 @@ Reference for `bank-employer-playbook` skill. Update when real JD patterns chang
 
 **Competitor flag:** Alfa ecosystem → cover letter mandatory
 
-**Tailored example:** `resume/tailored/sber-director-distribution.md`
+**Tailored example:** `resume/tailored/sber-t2-honest.md` (честный T2, 2026-09-19); legacy: `resume/tailored/sber-director-distribution.md`
 
 ---
 
