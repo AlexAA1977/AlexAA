@@ -2,77 +2,122 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <title>Алексей Алексеев — Резюме</title>
+  <title>Алексей Алексеев — Резюме 1 стр. v4.0</title>
   <style>
-    @page { size: A4; margin: 12mm 14mm; }
+    @page { size: A4; margin: 8mm 10mm; }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 9.2pt;
-      line-height: 1.38;
+      font-size: 8.85pt;
+      line-height: 1.30;
       color: #1a1a1a;
-      background: #fff;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
     }
-    .page { max-width: 182mm; margin: 0 auto; }
+    .page { max-width: 188mm; margin: 0 auto; }
     header {
       border-bottom: 2.5px solid #1e3a5f;
-      padding-bottom: 8px;
-      margin-bottom: 10px;
+      padding-bottom: 6px;
+      margin-bottom: 6px;
     }
     h1 {
-      font-size: 21pt;
+      font-size: 19pt;
       font-weight: 700;
-      letter-spacing: 0.03em;
       color: #1e3a5f;
-      margin-bottom: 3px;
+      letter-spacing: 0.02em;
+      margin-bottom: 2px;
     }
     .subtitle {
-      font-size: 9.5pt;
+      font-size: 9.2pt;
       font-weight: 600;
-      color: #333;
-      line-height: 1.35;
-      margin-bottom: 5px;
+      color: #2a2a2a;
+      margin-bottom: 3px;
     }
-    .contacts { font-size: 8.5pt; color: #555; }
+    .contacts { font-size: 8.1pt; color: #555; }
     h2 {
-      font-size: 9pt;
+      font-size: 8.5pt;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.07em;
       color: #1e3a5f;
-      border-bottom: 1px solid #d0d7de;
+      border-bottom: 1px solid #cfd6de;
       padding-bottom: 2px;
-      margin: 10px 0 6px;
+      margin: 7px 0 4px;
     }
-    p { margin-bottom: 5px; }
+    .summary { margin-bottom: 4px; }
     .metrics {
       width: 100%;
       border-collapse: collapse;
-      margin: 4px 0 2px;
-      font-size: 8.4pt;
+      margin: 2px 0 4px;
+      font-size: 8pt;
     }
     .metrics th, .metrics td {
-      border: 1px solid #d8dee6;
-      padding: 4px 6px;
+      border: 1px solid #d5dce5;
+      padding: 3px 5px;
       text-align: left;
       vertical-align: top;
     }
     .metrics th {
-      background: #f4f7fb;
+      background: #eef3f8;
       color: #1e3a5f;
-      width: 36%;
-      font-weight: 600;
+      width: 20%;
+      font-weight: 700;
     }
-    .company { font-size: 9.8pt; font-weight: 700; color: #222; margin-top: 6px; }
-    .company-note { font-size: 8pt; font-style: italic; color: #666; margin-bottom: 2px; }
-    .role { font-size: 9.2pt; font-weight: 700; margin-top: 5px; color: #333; }
-    .period { font-size: 8.2pt; color: #666; margin-bottom: 3px; }
-    ul { margin: 2px 0 5px 14px; padding: 0; }
-    li { margin-bottom: 2px; }
-    .competency { margin-bottom: 3px; font-size: 8.8pt; }
-    .label { font-weight: 700; }
-    .two-col { display: flex; gap: 12px; }
-    .two-col > div { flex: 1; }
+    .company {
+      font-size: 9.4pt;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-top: 1px;
+    }
+    .company-note {
+      font-size: 7.7pt;
+      font-style: italic;
+      color: #666;
+      margin-bottom: 2px;
+    }
+    .role {
+      font-size: 9pt;
+      font-weight: 700;
+      margin-top: 5px;
+      color: #222;
+    }
+    .period {
+      font-size: 7.8pt;
+      color: #666;
+      margin-bottom: 1px;
+    }
+    ul { margin: 1px 0 3px 14px; padding: 0; }
+    li { margin-bottom: 1.5px; }
+    .early {
+      font-size: 8.2pt;
+      color: #333;
+      margin: 4px 0 2px;
+    }
+    .early strong { color: #222; }
+    .bank-note {
+      font-size: 8pt;
+      color: #555;
+      margin: 3px 0 1px;
+      font-style: italic;
+    }
+    .grid {
+      display: flex;
+      gap: 12px;
+      margin-top: 2px;
+    }
+    .grid > div { flex: 1; }
+    .competency { margin-bottom: 2px; font-size: 8.2pt; }
+    .label { font-weight: 700; color: #1e3a5f; }
+    .edu p { font-size: 8.2pt; margin-bottom: 3px; }
+    .footer {
+      margin-top: 7px;
+      padding-top: 4px;
+      border-top: 1px solid #e2e6eb;
+      font-size: 7.3pt;
+      color: #888;
+      display: flex;
+      justify-content: space-between;
+    }
     strong { font-weight: 700; }
   </style>
 </head>
@@ -80,76 +125,94 @@
   <div class="page">
     <header>
       <h1>АЛЕКСЕЙ АЛЕКСЕЕВ</h1>
-      <div class="subtitle">Директор по развитию дистрибуции · P&L · AuM 1,15 трлн ₽ · HNWI &amp; Premium · Участник Правления</div>
-      <div class="contacts">Москва · aleksey.alexeev@gmail.com · linkedin.com/in/алексей-алексеев-7342b621</div>
+      <div class="subtitle">Заместитель генерального директора по дистрибуции · P&amp;L · Участник Правления · AuM 1,15 трлн ₽</div>
+      <div class="contacts">Москва · +7 933 271-27-77 · aleksey.alexeev@gmail.com · linkedin.com/in/алексей-алексеев-7342b621</div>
     </header>
 
-    <h2>Executive Summary</h2>
-    <p>Руководитель с <strong>19-летним опытом</strong> в крупнейшей частной УК России. Владею P&L бизнес-юнита с <strong>AuM 1,15 трлн ₽</strong> (<strong>52%</strong> активов компании), <strong>чистой прибылью 4,3 млрд ₽</strong> (2025) и командой <strong>250+</strong> человек. <strong>Приглашённый участник Правления.</strong> Omni-channel дистрибуция в сегментах <strong>HNWI, Affluent, Premium и Mass Affluent</strong> — bancassurance (Альфа-Банк), <strong>22 офиса</strong>, прямые продажи в Москве.</p>
+    <h2>Профиль</h2>
+    <p class="summary">Руководитель с <strong>19-летним опытом</strong> в крупнейшей частной УК России и банковским бэкграундом (<strong>Citibank Citi Gold</strong>). <strong>Приглашённый участник Правления.</strong> Владею <strong>полным P&amp;L департамента</strong> (без shadow): выручка — все комиссии с <strong>AuM 1,15 трлн ₽</strong> (52% УК), <strong>OPEX 3 млрд ₽</strong>, <strong>чистая прибыль 4,3 млрд ₽</strong> (2025), команда <strong>250+</strong>. Строю <strong>омниканальную дистрибуцию</strong> и <strong>кросс-продажи</strong> инвестиционных продуктов в сегментах <strong>HNWI, Private Banking, Premium и Affluent</strong> — bancassurance (<strong>Альфа-Банк</strong>, <strong>Уралсиб</strong>, <strong>МТС</strong> и др.), федеральная сеть <strong>24 офисов</strong>, digital-каналы.</p>
 
     <h2>Ключевые результаты</h2>
     <table class="metrics">
-      <tr><th>AuM департамента</th><td><strong>1,15 трлн ₽</strong> · 52% активов УК · рост <strong>100+×</strong></td></tr>
-      <tr><th>P&L (2025)</th><td>Чистая прибыль <strong>4,3 млрд ₽</strong> · OPEX <strong>3 млрд ₽</strong></td></tr>
-      <tr><th>Команда</th><td><strong>250+</strong> FTE · ¾ розничного блока · с 24 чел. (2009)</td></tr>
-      <tr><th>Сеть</th><td><strong>22</strong> офиса · <strong>3</strong> дивизиона · Москва (с 2025)</td></tr>
-      <tr><th>Признание</th><td>Лучший директор департамента продаж — <strong>2020–2023</strong></td></tr>
+      <tr>
+        <th>AuM</th>
+        <td><strong>1,15 трлн ₽</strong> · 52% активов УК · рост <strong>100+×</strong> за карьеру в компании</td>
+      </tr>
+      <tr>
+        <th>P&amp;L (2025)</th>
+        <td>Чистая прибыль <strong>4,3 млрд ₽</strong> · OPEX <strong>3 млрд ₽</strong> · полный P&amp;L департамента (без shadow)</td>
+      </tr>
+      <tr>
+        <th>Команда / сеть</th>
+        <td><strong>250+</strong> FTE · <strong>24</strong> офиса · <strong>3</strong> дивизиона · дирекция в Москве (с 2025)</td>
+      </tr>
+      <tr>
+        <th>Признание</th>
+        <td>«Лучший директор департамента продаж» — <strong>2020–2023</strong> (4 года подряд)</td>
+      </tr>
     </table>
 
     <h2>Опыт работы</h2>
     <div class="company">ООО УК «Альфа-Капитал» · Москва</div>
-    <div class="company-note">Частная УК №1 в России · AuM 2+ трлн ₽ · 2+ млн клиентов · Альфа-Групп</div>
+    <div class="company-note">Частная УК №1 в России · AuM 2+ трлн ₽ · 2+ млн клиентов · экосистема Альфа-Групп · дек. 2006 — н.в.</div>
 
     <div class="role">Директор департамента по развитию агентских продаж и региональной дистрибуции</div>
     <div class="period">Август 2020 — настоящее время · Приглашённый участник Правления</div>
     <ul>
-      <li><strong>P&L-ответственность:</strong> AuM, выручка, OPEX, чистая прибыль бизнес-юнита</li>
-      <li><strong>Каналы:</strong> Альфа-Банк (Стойка, ONLY, А-Клуб) + 22 офиса + дирекция в Москве</li>
-      <li>Масштабировал сеть <strong>16 → 22</strong> офиса; дивизиональная модель (<strong>3</strong> дивизиона)</li>
-      <li>Мидл/мини-офисы: Владивосток, Тюмень, Ижевск, Барнаул, Хабаровск, Иркутск</li>
-      <li>Клиентские мероприятия — бюджет <strong>100 млн ₽/год</strong>; партнёрство с «Этажи» (ЗПИФ)</li>
-      <li><strong>AuM 1,15 трлн ₽</strong> · чистая прибыль <strong>4,3 млрд ₽</strong> (2025)</li>
+      <li>Несу <strong>полную P&amp;L-ответственность</strong> департамента: выручка (все комиссии с AuM), OPEX, чистая прибыль — <strong>без shadow P&amp;L</strong></li>
+      <li>Курирую <strong>кросс-продажи</strong> через партнёрские финансовые структуры — Альфа-Банк (Стойка, ONLY, А-Клуб), <strong>Уралсиб</strong>, <strong>МТС</strong> и др. — и прямые продажи (24 офиса в регионах + Москва) — оба канала <strong>внутри P&amp;L</strong></li>
+      <li>Масштабировал федеральную сеть <strong>16 → 24 офиса</strong>; внедрил дивизиональную модель (<strong>3 дивизиона</strong>) и мидл/мини-офисы в 6 городах</li>
+      <li>Развил клиентский опыт премиального сегмента (мероприятия <strong>100 млн ₽/год</strong>); достиг AuM <strong>1,15 трлн ₽</strong> и прибыли <strong>4,3 млрд ₽</strong> при OPEX <strong>3 млрд ₽</strong> (2025)</li>
+      <li>Признание: «Лучший директор департамента продаж» <strong>2020–2023</strong> (4 года подряд)</li>
     </ul>
 
     <div class="role">Директор департамента по развитию продаж в регионах</div>
     <div class="period">Январь 2015 — Июль 2020</div>
     <ul>
-      <li>Самостоятельный бизнес-блок с полной операционной и финансовой ответственностью</li>
-      <li>KPI, мотивация, контроль эффективности; рост ПИФ, ДУ, ИСЖ, структурных продуктов</li>
+      <li>Вывел департамент в <strong>самостоятельный бизнес-блок</strong> с полной операционной и финансовой ответственностью</li>
+      <li>Внедрил <strong>data-driven KPI</strong>, систему мотивации и управленческую отчётность федеральной сети</li>
+      <li>Обеспечил устойчивый рост дистрибуции ПИФ, БПИФ, ДУ и структурных продуктов в регионах</li>
     </ul>
 
     <div class="role">Директор по развитию продаж в регионах</div>
     <div class="period">Июль 2009 — Декабрь 2014</div>
     <ul>
-      <li>Дистрибуция с нуля до федеральной сети; команда <strong>24 → 100+</strong></li>
-      <li>Стандарты премиального сервиса HNWI/Affluent в регионах</li>
+      <li>Построил региональную дистрибуцию <strong>с нуля</strong> до федеральной сети офисов</li>
+      <li>Масштабировал команду <strong>24 → 100+</strong>; стандартизировал премиальный сервис для HNWI/Affluent</li>
     </ul>
 
-    <div class="role">Заместитель руководителя дирекции по работе с агентами</div>
-    <div class="period">Январь 2009 — Июнь 2009</div>
+    <p class="early"><strong>Дек. 2006 — Июн. 2009:</strong> начальник отдела развития агентской сети → зам. руководителя дирекции — модель агентской сети на этапе масштабирования по России.</p>
 
-    <div class="role">Начальник отдела развития агентской сети</div>
-    <div class="period">Декабрь 2006 — Декабрь 2008</div>
-    <ul><li>Модель агентской сети на этапе масштабирования канала по России</li></ul>
+    <div class="company">Citibank · Россия</div>
+    <div class="role">Citi Gold Manager</div>
+    <div class="period">2005 — 2006</div>
+    <ul>
+      <li>Клиенты премиального сегмента <strong>Citi Gold</strong> — отношения и сервис для <strong>HNWI / high net worth</strong></li>
+      <li>База экспертизы в <strong>Private Banking / Premium</strong> для дальнейшей карьеры в УК</li>
+    </ul>
+    <p class="bank-note">До 2005 — банковский опыт в универсальном банке (операции).</p>
 
-    <div class="two-col">
+    <div class="grid">
       <div>
         <h2>Компетенции</h2>
-        <div class="competency"><span class="label">Стратегия:</span> P&L · бюджетирование · трансформация · Правление</div>
-        <div class="competency"><span class="label">Продукты:</span> ПИФ/БПИФ · ДУ · ИСЖ · ЗПИФ · pre-IPO</div>
-        <div class="competency"><span class="label">Сегменты:</span> HNWI · UHNWI · Affluent · Premium</div>
-        <div class="competency"><span class="label">Каналы:</span> bancassurance · прямые · digital · партнёрства</div>
+        <div class="competency"><span class="label">Стратегия:</span> P&amp;L · бюджетирование · трансформация продаж · Правление · wealth management</div>
+        <div class="competency"><span class="label">Продукты:</span> ПИФ/БПИФ · ДУ · структурные · ЗПИФ · pre-IPO · альтернативы</div>
+        <div class="competency"><span class="label">Сегменты:</span> HNWI · UHNWI · Private Banking · Premium · Affluent</div>
+        <div class="competency"><span class="label">Каналы:</span> bancassurance · кросс-продажи · омниканальность · федеральная сеть · digital</div>
       </div>
-      <div>
-        <h2>Образование</h2>
-        <p><strong>Кандидат экономических наук</strong><br>РЭУ им. Г.В. Плеханова<br>Экономическая безопасность</p>
-        <h2>Экспертиза</h2>
-        <ul>
-          <li>Комментарии в СМИ: БПИФ, розничные инвестиции</li>
-          <li>«Кто главный», «Деловой Петербург», «Коммерсантъ»</li>
-        </ul>
-        <p style="margin-top:6px;font-size:8.5pt;color:#555;">Москва · командировки</p>
+      <div class="edu">
+        <h2>Образование и экспертиза</h2>
+        <p><strong>Канд. экон. наук</strong> — РЭУ им. Г.В. Плеханова, 2003</p>
+        <p><strong>Специалист, «Банковское дело»</strong> — УрГЭУ, 1995–2000</p>
+        <p>Экспертные комментарии: розничные инвестиции, БПИФ, финпланирование</p>
+        <p>СМИ: «Кто главный», «Деловой Петербург», «Коммерсантъ»</p>
+        <p>Москва · готовность к командировкам · русский — родной</p>
       </div>
+    </div>
+
+    <div class="footer">
+      <span>Цель: зам. ГД по дистрибуции — банк / УК / фингруппа · конфиденциальный поиск</span>
+      <span>1 страница · v4.3 · сентябрь 2026</span>
     </div>
   </div>
 </body>

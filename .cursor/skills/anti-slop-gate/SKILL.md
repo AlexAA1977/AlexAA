@@ -63,7 +63,8 @@ Fail → send to `achievement-miner` or rewrite inline.
 ## Pipeline position
 
 ```
-executive-cv-hr-guru → finance-am-lexicon → hm-red-team-review → anti-slop-gate → PDF
+executive-cover-letter → metrics-consistency-gate → hm-red-team-review → anti-slop-gate
+  → executive-ats-export → PDF (humans)
 ```
 
-Only `CLEARED FOR SEND` may trigger `resume/generate-pdf.sh` for final version.
+Only `CLEARED FOR SEND` may trigger `resume/generate-pdf.sh` and `resume/generate-ats-export.sh`.

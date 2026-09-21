@@ -36,7 +36,7 @@ Ask only unanswered areas:
 **Regional director (2009–2020)**
 - First office → federal network: timeline, cities, breakeven?
 - Team growth 24 → 100+: hiring, retention, productivity?
-- Product mix shift (ПИФ, ДУ, ИСЖ, структурные)?
+- Product mix shift (ПИФ, ДУ, структурные)?
 
 **Early roles (2006–2009)**
 - Agent network model — what was invented?

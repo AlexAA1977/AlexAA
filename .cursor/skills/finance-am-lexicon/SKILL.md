@@ -40,7 +40,7 @@ Terminology guardrail for Alexey Alekseev's domain.
 |--------|-------------|-------------|
 | AUM | Активы под управлением (AuM) | Assets under management (AUM) |
 | P&L | P&L-ответственность, чистая прибыль, OPEX | P&L ownership, net profit, OPEX |
-| Scale | 250+ FTE, 22 офиса, 3 дивизиона | 250+ FTEs, 22 offices, 3 divisions |
+| Scale | 250+ FTE, 24 офиса, 3 дивизиона | 250+ FTEs, 24 offices, 3 divisions |
 | Growth | рост с X до Y за Z лет | grew from X to Y over Z years |
 
 ## Power verbs (RU executive)
